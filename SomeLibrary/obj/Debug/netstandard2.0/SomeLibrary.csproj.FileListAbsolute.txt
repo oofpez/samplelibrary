@@ -1,0 +1,5 @@
+C:\Users\JanSchoeman\source\repos\SomeLibrary\bin\Debug\netstandard2.0\SomeLibrary.deps.json
+C:\Users\JanSchoeman\source\repos\SomeLibrary\bin\Debug\netstandard2.0\SomeLibrary.dll
+C:\Users\JanSchoeman\source\repos\SomeLibrary\obj\Debug\netstandard2.0\SomeLibrary.csprojAssemblyReference.cache
+C:\Users\JanSchoeman\source\repos\SomeLibrary\obj\Debug\netstandard2.0\SomeLibrary.AssemblyInfoInputs.cache
+C:\Users\JanSchoeman\source\repos\SomeLibrary\obj\Debug\netstandard2.0\SomeLibrary.AssemblyInfo.cs

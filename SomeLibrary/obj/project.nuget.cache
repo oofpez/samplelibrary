@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VdIwCflvRZyUXKbSVm/rGoMNCpzRz30d69YTYXNxfd2HEQwAzGFSbDA+6xDjQHo3tSQTSHzsrj5G+E44YKzSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JanSchoeman\\source\\repos\\SomeLibrary\\SomeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JanSchoeman\\.nuget\\packages\\postsharp\\6.7.7-preview\\postsharp.6.7.7-preview.nupkg.sha512",
+    "C:\\Users\\JanSchoeman\\.nuget\\packages\\postsharp.redist\\6.7.7-preview\\postsharp.redist.6.7.7-preview.nupkg.sha512"
+  ],
+  "logs": []
+}
